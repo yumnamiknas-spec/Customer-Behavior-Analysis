@@ -188,6 +188,5 @@ jupyter notebook
 
 ## Author
 
-**Your Name**
+**Yumna Miknas**
 
-Feel free to connect with me on LinkedIn or explore more of my projects on GitHub.
