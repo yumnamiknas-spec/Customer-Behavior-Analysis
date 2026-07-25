@@ -13,8 +13,8 @@ The goal of the project is to transform raw data into meaningful insights that s
 - **Dataset:** [Dataset Name]
 - **Source:** [Kaggle / UCI / Company Data / Other]
 - **Format:** CSV
-- **Records:** [Number of Rows]
-- **Features:** [Number of Columns]
+- **Records:** [3,900]
+- **Features:** [18]
 
 The dataset contains information used to analyze trends, identify patterns, and answer business-related questions.
 
