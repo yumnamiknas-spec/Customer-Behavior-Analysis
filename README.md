@@ -11,7 +11,7 @@ The goal of the project is to transform raw data into meaningful insights that s
 ## Dataset
 
 - **Dataset:** [customer_shopping_behavior.csv]
-- **Source:** [Kaggle / UCI / Company Data / Other]
+- **Source:** [Other]
 - **Format:** CSV
 - **Records:** [3,900]
 - **Features:** [18]
