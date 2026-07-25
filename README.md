@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an end-to-end data analytics workflow, from raw data to business insights. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL analysis, interactive dashboard creation, and presentation of findings.
+This project demonstrates an end-to-end data analytics workflow, from raw data to business insights. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL analysis.
 
 The goal of the project is to transform raw data into meaningful insights that support data-driven decision-making.
 
@@ -55,7 +55,7 @@ The dataset contains information used to analyze trends, identify patterns, and 
 - Wrote SQL queries to answer business questions.
 - Used filtering, grouping, joins, aggregate functions, and subqueries.
 
-### 6. Reporting
+### 5. Reporting
 - Summarized key findings in a written report.
 - Highlighted important trends and recommendations.
 
@@ -69,8 +69,6 @@ Some of the insights generated include:
 - Compared performance across different categories.
 - Detected high-performing and low-performing segments.
 - Answered business questions using SQL.
-- Presented actionable recommendations based on the analysis.
-
 ---
 
 ## Project Structure
@@ -96,39 +94,6 @@ Data-Analytics-Project/
 
 ---
 
-## How to Run
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-2. Navigate to the project folder.
-
-```bash
-cd your-repository
-```
-
-3. Install the required Python libraries.
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-4. Open the Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-5. Run the notebook from start to finish.
-
-6. Execute the SQL queries using PostgreSQL, MySQL, or SQL Server.
-
-7. Open the Power BI dashboard (`.pbix`) to explore the interactive visualizations.
-
----
 
 ## Skills Demonstrated
 
@@ -136,22 +101,11 @@ jupyter notebook
 - Exploratory Data Analysis (EDA)
 - SQL Query Writing
 - Database Management
-- Data Visualization
-- Dashboard Design
 - Business Analysis
 - Report Writing
-- Presentation Design
 
 ---
 
-## Future Improvements
-
-- Automate the data pipeline.
-- Add advanced statistical analysis.
-- Build predictive machine learning models.
-- Connect the dashboard to a live database.
-
----
 
 ## Author
 
