@@ -10,7 +10,7 @@ The goal of the project is to transform raw data into meaningful insights that s
 
 ## Dataset
 
-- **Dataset:** [Dataset Name]
+- **Dataset:** [customer_shopping_behavior.csv]
 - **Source:** [Kaggle / UCI / Company Data / Other]
 - **Format:** CSV
 - **Records:** [3,900]
@@ -26,13 +26,9 @@ The dataset contains information used to analyze trends, identify patterns, and 
   - Pandas
   - NumPy
   - Matplotlib
-  - Seaborn
 - **SQL**
   - PostgreSQL / MySQL / SQL Server
-- **Power BI**
 - **Jupyter Notebook**
-- **Gamma** (Presentation)
-- **Microsoft PowerPoint**
 
 ---
 
@@ -59,32 +55,9 @@ The dataset contains information used to analyze trends, identify patterns, and 
 - Wrote SQL queries to answer business questions.
 - Used filtering, grouping, joins, aggregate functions, and subqueries.
 
-### 5. Dashboard Development
-- Built an interactive Power BI dashboard.
-- Added KPIs, charts, slicers, and filters.
-- Created visualizations for business insights.
-
 ### 6. Reporting
 - Summarized key findings in a written report.
 - Highlighted important trends and recommendations.
-
-### 7. Presentation
-- Created a professional presentation using Gamma.
-- Presented project objectives, methodology, findings, and conclusions.
-
----
-
-## Dashboard
-
-The Power BI dashboard includes:
-
-- Executive KPI cards
-- Trend analysis
-- Category comparisons
-- Interactive filters
-- Business performance overview
-
-> *Add dashboard screenshots here.*
 
 ---
 
@@ -115,14 +88,8 @@ Data-Analytics-Project/
 ├── sql/
 │   └── queries.sql
 │
-├── dashboard/
-│   └── dashboard.pbix
-│
 ├── report/
 │   └── project_report.pdf
-│
-├── presentation/
-│   └── presentation.pdf
 │
 └── README.md
 ```
